@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'MB';
+    src: url('../Fonts/Montserrat/Montserrat-Bold.ttf');
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'IM';
+    src: url('../Fonts/Inter/Inter-Medium.ttf');
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'IR';
+    src: url('../Fonts/Inter/Inter-Regular.ttf');
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'ISB';
+    src: url('../Fonts/Inter/Inter-SemiBold.ttf');
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'FAR';
+    src: url('../Fonts/Webfonts/fa-regular-400.ttf');
+    font-weight: 400;
+}
+.far{
+    font-family: 'FAR';
+    font-weight: 400;
+}
+.fa-chevron-right::before{
+    content: '\f054';
+    font-style: normal;
+}
+.fa-chevron-left::before{
+    content: '\f053';
+    font-style: normal;
+}
+/* @font-face {
+    font-family: 'FAB';
+    src: url('../Fonts/Webfonts/fa-brands-400.ttf');
+    font-weight: 400;
+}
+.fab{
+    font-family: 'FAB';
+    font-weight: 400;
+}
+.fa-twitter::before{
+    content: '\f099';
+    font-style: normal;
+    
+}
+.fa-telegram-plane::before{
+    content: '\f3fe';
+    font-style: normal;
+}
+.fa-facebook-f::before{
+    content: '\f39e';
+    font-style: normal;
+}
+.fa-instagram::before{
+    content: '\f16d';
+    font-style: normal;
+} */
